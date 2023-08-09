@@ -39,16 +39,6 @@ The new Python App for Cloud Vetting has the following new features:
    vetting apps, like permissions, dashboard versions, old features
    etc.…
 
-**Instructions for Installation:**
-
-Requirements:
- -Splunk Enterprise must be installed in the Machine.
- -Python 3 is required
-
-Using the pip tool install the package:
- - pip install vetting_app-0.1.0.tar.gz
-   The **vetting_app-0.1.0.tar.gz** can be found in the dist folder.
-
 **Usage**
 
     usage: svta [-h] [--bulk] [--app APP] [-l] [-p] [-d] [-b] [--configure]
