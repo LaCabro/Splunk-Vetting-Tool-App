@@ -93,7 +93,6 @@ Options:
     - Dashboards Version
     - Adding sc-admin role to metadata files
     - Updating user permissions of Kos
-
-_ **More Fixes will be added in a future release. If you have any questions or recommendations, please send an email to ccarvajal@bitsioinc.com** _
+           _ **More Fixes will be added in a future release. If you have any questions or recommendations, please send an email to ccarvajal@bitsioinc.com** _
 
 You can combine multiple options to customize your vetting process. For example, if you want to run vetting for a private app and delete any bin files, you can run "svta --app my\_private\_app -p -b."
