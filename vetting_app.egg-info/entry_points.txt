@@ -1,0 +1,2 @@
+[console_scripts]
+svta = vetting_app.VetAssist:main
